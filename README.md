@@ -21,9 +21,8 @@ print('Eigen values are {} and Eigen Vectors are {} '.format(values,vectors))
 ```
 
 ## Output:
-<img width="1267" height="651" alt="image" src="https://github.com/user-attachments/assets/30077fde-0d2a-4a44-bf72-ffe2cff08c55" />
 
-<img width="1285" height="250" alt="image" src="https://github.com/user-attachments/assets/85c7f319-8e30-4dd8-915b-931ca2409134" />
+<img width="1332" height="877" alt="image" src="https://github.com/user-attachments/assets/0fba598d-e288-40ef-823c-064d8d691090" />
 
 
 
